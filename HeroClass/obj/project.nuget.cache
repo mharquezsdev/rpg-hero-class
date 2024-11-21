@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVt+akOreIsiW3sBuKiDPr+4jqXy8gdPdv9Q+bC4Vf48F0tdBflotxfXvTN7jNL3owMqrOU5dGkJ1a4Y+4N7ug==",
+  "success": true,
+  "projectFilePath": "/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/HeroClass.csproj",
+  "expectedPackageFiles": [
+    "/home/devpablo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

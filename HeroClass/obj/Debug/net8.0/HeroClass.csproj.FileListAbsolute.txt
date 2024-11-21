@@ -1,0 +1,15 @@
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/bin/Debug/net8.0/HeroClass
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/bin/Debug/net8.0/HeroClass.deps.json
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/bin/Debug/net8.0/HeroClass.runtimeconfig.json
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/bin/Debug/net8.0/HeroClass.dll
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/bin/Debug/net8.0/HeroClass.pdb
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/obj/Debug/net8.0/HeroClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/obj/Debug/net8.0/HeroClass.AssemblyInfoInputs.cache
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/obj/Debug/net8.0/HeroClass.AssemblyInfo.cs
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/obj/Debug/net8.0/HeroClass.csproj.CoreCompileInputs.cache
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/obj/Debug/net8.0/HeroClass.sourcelink.json
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/obj/Debug/net8.0/HeroClass.dll
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/obj/Debug/net8.0/refint/HeroClass.dll
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/obj/Debug/net8.0/HeroClass.pdb
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/obj/Debug/net8.0/HeroClass.genruntimeconfig.cache
+/home/devpablo/Projetos/estudo/rpg-hero-class/HeroClass/obj/Debug/net8.0/ref/HeroClass.dll
